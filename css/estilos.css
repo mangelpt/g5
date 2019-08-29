@@ -269,9 +269,11 @@ footer .copyright {
 
 	header .textos .nombre {
 		font-size: 30px;
+		margin-top: 10px;
 	}
 
 	header .textos h3 {
+		margin-top: 20px;
 		font-size: 18px;
 	}
 
